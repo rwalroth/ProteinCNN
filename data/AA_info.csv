@@ -1,0 +1,23 @@
+﻿Name,One Letter,Three Letter,mass,PI,pka,pkb,side chain,hydrophobic,pka,polar,ph,small,tiny,aromatic or aliphatic,van der waal volume,Hydrophobicity
+Alanine,A,Ala,89.09404,6.01,2.35,9.87,-CH3,Yes,30,No,,Yes,Yes,Aliphatic,67,0.33
+Arginine,R,Arg,174.20274,10.76,1.82,8.99,-(CH2)3NH-C(NH)NH2,No,12.3,Yes,strongly basic,No,No,-,148,1
+Asparagine,N,Asn,132.11904,5.41,2.14,8.72,-CH2CONH2,No,30,Yes,,Yes,No,-,96,0.43
+Aspartic acid,D,Asp,133.10384,2.85,1.99,9.9,-CH2COOH,No,3.67,Yes,acidic,Yes,No,-,91,2.66
+Cysteine,C,Cys,121.15404,5.05,1.92,10.7,-CH2SH,Yes,8.55,No,acidic,Yes,Yes,-,86,0.22
+Glutamine,Q,Gln,146.14594,5.65,2.17,9.13,-CH2CH2CONH2,No,30,Yes,,No,No,-,114,0.19
+Glutamic acid,E,Glu,147.13074,3.15,2.1,9.47,-CH2CH2COOH,No,4.25,Yes,acidic,No,No,-,109,1.67
+Glycine,G,Gly,75.06714,6.06,2.35,9.78,-H,Yes,30,No,,Yes,Yes,-,48,1.14
+Histidine,H,His,155.15634,7.6,1.8,9.33,-CH2-C3H3N2,No,6.54,Yes,weak basic,No,No,Aromatic,118,1.34
+Isoleucine,I,Ile,131.17464,6.05,2.32,9.76,-CH(CH3)CH2CH3,Yes,30,No,,No,No,Aliphatic,124,-0.81
+Leucine,L,Leu,131.17464,6.01,2.33,9.74,-CH2CH(CH3)2,Yes,30,No,,No,No,Aliphatic,124,-0.69
+Lysine,K,Lys,146.18934,9.6,2.16,9.06,-(CH2)4NH2,No,10.4,Yes,basic,No,No,-,135,1.81
+Methionine,M,Met,149.20784,5.74,2.13,9.28,-CH2CH2SCH3,Yes,30,No,,No,No,Aliphatic,124,-0.44
+Phenylalanine,F,Phe,165.19184,5.49,2.2,9.31,-CH2C6H5,Yes,30,No,,No,No,Aromatic,135,-0.58
+Proline,P,Pro,115.13194,6.3,1.95,10.64,-CH2CH2CH2-,Yes,30,No,,Yes,No,-,90,-0.31
+Pyrrolysine,O,Pyl,255.31,,,,-(CH2)4NHCOC4H5NCH3,No,,Yes,weak basic,No,No,-,?,
+Selenocysteine,U,Sec,168.053,5.47,1.91,10,-CH2SeH,No,5.43,No,acidic,Yes,Yes,-,?,
+Serine,S,Ser,105.09344,5.68,2.19,9.21,-CH2OH,No,30,Yes,,Yes,Yes,-,73,0.33
+Threonine,T,Thr,119.12034,5.6,2.09,9.1,-CH(OH)CH3,No,30,Yes,,Yes,No,-,93,0.11
+Tryptophan,W,Trp,204.22844,5.89,2.46,9.41,-CH2C8H6N,Yes,30,No,,No,No,Aromatic,163,-0.24
+Tyrosine,Y,Tyr,181.19124,5.64,2.2,9.21,-CH2-C6H4OH,No,9.84,Yes,weak acidic,No,No,Aromatic,141,0.23
+Valine,V,Val,117.14784,6,2.39,9.74,-CH(CH3)2,Yes,30,No,,Yes,No,Aliphatic,105,-0.53
