@@ -17,6 +17,7 @@ matplotlib
 
 ## Project Motivation
 
+### Overview
 Classifying proteins is a challenging problem in molecular biology.
 Current methods involve isolating and characterizing a protein,
 or comparing how its sequence compares to already classified
@@ -25,6 +26,17 @@ proteins, and relies on a narrow set of sequences being tied to
 function. Being able to train a machine learning algorithm
 on amino acid information, beyond simple sequence alignment,
 could allow for improved classification.
+
+### Problem Statement
+Protein sequence data is reported as sequence of one letter
+amino acid codes (A, W, V, etc.). These need to be converted
+into numeric arrays before they can be used to train NNs.
+Different NN architectures need to be evaluated for classification.
+
+### Metrics
+Amino acid sequences are converted to numeric
+arrays readable by neural networks. Multiple NN architectures
+are explored. 
 
 ## File Description
 
